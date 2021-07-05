@@ -5,7 +5,7 @@
  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 
 <p align="center">
-  <img alt="Rocket.Q" src=".github/preview.png">
+  <img alt="Rocket.Q" src="./github/preview.png">
 </p>
 
 ---
@@ -45,7 +45,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Tem alguma ideia que poderia alavancar ainda mais o projeto, e deseja implementar? É simples!
 
-1. Faça fork do proketo
+1. Faça fork do projeto
 2. Modifique o que achar necessário
 3. Faça o commit das mudanças
 4. Crie um Pull Request
