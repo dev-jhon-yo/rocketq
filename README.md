@@ -3,9 +3,9 @@
  <img src="https://img.shields.io/static/v1?label=Author&message=Halls&color=49AA26&labelColor=000000" alt="Author Halls">
  <img src="https://img.shields.io/static/v1?label=Status&message=Concluded&color=49AA26&labelColor=000000" alt="Status Concluded">
  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
- 
+
 <p align="center">
-  <img alt="Rocket.Q" src=".github/preview.png" width="50%">
+  <img alt="Rocket.Q" src=".github/preview.png">
 </p>
 
 ---
@@ -36,6 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Criação de salas
 - CRUD de perguntas
+- Gerenciamento de Pergustas em posse de uma senha
 - Visualização de salas e perguntas criadas por outros usuários
 
 ---
